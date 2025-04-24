@@ -1,12 +1,20 @@
 
 #paragrafo{
     color: chartreuse;
+    font-size: 25px;
 }
 
 #paragrafo{
     color: blueviolet;
+    font-size: 30px;
 }
 
 .paragrafo{
     color: aqua;
+    font-size: 50px;
+}
+
+.paragrafo{
+    color: midnightblue;
+    font-size: 30px;
 }

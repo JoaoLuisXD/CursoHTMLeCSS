@@ -1,0 +1,19 @@
+section{
+    color: orchid;
+}
+
+div{
+    color: darkolivegreen;
+}
+
+div > p{
+    color: cadetblue;
+}
+
+section > p{
+    color: tomato;
+}
+
+#segundo > p{
+    color: violet;
+}

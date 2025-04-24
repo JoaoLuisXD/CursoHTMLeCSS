@@ -6,7 +6,7 @@
     <title>Formulario</title>
 </head>
 <body>
-    <form action="">
+    <form action="" method="get">
         <div>
             <label for="nome">Nome</label>
             <input type="text" name="nome" id="Nome:">
@@ -23,7 +23,8 @@
         </div>
         <br>
         <div>
-            <input type="submit" value="Enviar">
+            <label for="submit">Enviar</label>
+            <input type="submit" name="submit" id="submit">
         </div>
         <br>
         <div>
@@ -31,7 +32,24 @@
         </div>
         <br>
         <div>
-            <input type="checkbox" value="Lista">
+            <label for="checkbox">Checkbox</label>
+            <input type="checkbox" name="checkbox" id="checkbox">
+        </div>
+        <br>
+        <div>
+            <select name="form" id="">
+
+                <option disabled selected value="vazio">Selecione um opcao</option>
+                <option value="option-1">primeira opcao</option>
+                <option value="option-2">segunda opcao</option>
+                <option value="option-3">terceira opcao</option>
+
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="color">Color</label>
+            <input type="color" name="color" id="color">
         </div>
     </form>
 </body>

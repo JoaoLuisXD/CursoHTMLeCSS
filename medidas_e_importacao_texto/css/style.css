@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Comic+Relief:wght@400;700&display=swap');
+
+
+#primeiro{
+    font-family: Anton, sans-serif;
+    font-size: 20px;
+    text-decoration: wavy;
+    font-weight: 400;
+    text-transform: lowercase;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: darkcyan;
+}
+
+.segundo{
+    font-family: Anton, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 25px;
+    letter-spacing: normal;
+    text-align: justify;
+    color: slateblue
+}
+
+
+

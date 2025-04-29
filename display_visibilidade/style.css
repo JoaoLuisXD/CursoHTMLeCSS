@@ -1,0 +1,20 @@
+main{
+    width: 100%;
+}
+
+.um{
+    height: 200px;
+    width: 500px;
+    background-color: lightseagreen;
+    display: inline-block;
+}
+.dois{
+    height: 200px;
+    width: 500px;
+    background-color: indianred;
+}
+.tres{
+    height: 200px;
+    width: 500px;
+    background-color: limegreen;
+}

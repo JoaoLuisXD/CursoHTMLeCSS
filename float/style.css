@@ -20,4 +20,6 @@ div{
     margin-left: 70px;
     padding: 5px;
     float: left;
+    text-align: center;
+    line-height: 100px;
 }

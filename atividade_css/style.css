@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.digital{
+    color: rgb(245, 234, 234);
+    background-color: rgb(148, 0, 148);
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+.fundo{
+    height: 120px;
+    width: 100%;
+    background-color: rgba(164, 19, 231, 0.911);
+    display: block;
+}
+.digital_2{
+    color: rgb(148, 0, 148);
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    
+}
+.teste{
+    color: rgb(148, 0, 148);
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    
+}

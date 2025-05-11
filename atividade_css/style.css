@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    padding: 0;
 }
 
 .digital{
@@ -28,6 +27,55 @@
     color: rgb(148, 0, 148);
     display: flex;
     justify-content: center;
-    margin: 10px;
-    
+    margin-top: 2px;
+}
+.lorenzada{
+    margin: 5px;
+    font-size: 15px;
+}
+.equipe{
+    color: rgb(148, 0, 148);
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.cirquinho{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+.cirquinho > div{
+    background-color: rgba(164, 19, 231, 0.911);
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+}
+.teams{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 80px;
+    margin-top: 4px;
+}
+.teams > div{
+    color: rgb(148, 0, 148);
+}
+.developer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 75px;
+    margin-top: 4px;
+}
+.developer > div{
+    color: rgb(148, 0, 148);
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(148, 0, 148);
+    color: rgb(245, 234, 234);
+    margin-top: 57px;
 }

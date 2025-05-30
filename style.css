@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    margin: 2em;
+    padding: 5%;
+}
+.c{
+    color: darkmagenta;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+.html{
+    color: darkgoldenrod;
+    font-size: 120%;
+    font-family: 'Comic Relief', sans-serif;
+}
+.js{
+    color: black;
+    font-size: 18px;
+    font-family: 'Comic Relief', sans-serif;
+}
+.bio p {
+  color: blue;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin: 1em 0;
+  padding: 2%;
+  font-family: 'Comic Relief', sans-serif;
+}
